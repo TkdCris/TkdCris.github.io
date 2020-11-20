@@ -1,0 +1,33 @@
+
+
+.titulo {
+    size: 60px;
+    border: 1px ;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin: auto;
+    box-sizing: border-box;
+    
+}
+#cris-perfil {
+    
+    width: fit-content;
+    height: auto;
+    margin: auto;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+#cris-img {
+    position: sticky;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
