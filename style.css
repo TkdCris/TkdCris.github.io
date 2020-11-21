@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(109, 110, 112)
+    background-color: rgb(38, 68, 49)
 }
 
 #cris-perfil {
@@ -8,15 +8,33 @@ body {
 }
 
 #cris-perfil{
-    display: flex;
+    max-width: 300px;
+    display: flexbox;
     margin:auto;
     border-radius: 50%;
     padding: 0;
+    border: 6px solid;
 }
 
 .titulo {
-    padding: 10;
-    background-color: grey;
     width: 10.07em;
     margin: 10px auto;
+    
+}
+
+img {
+    min-width: 300px;
+    max-width: 90%;
+    padding: 0;
+    margin: 0;
+    border: 3px solid;
+    display: flex;
+    margin:auto;
+}
+
+.centralizar {
+    min-width: 300px;
+    max-width: 600px;
+    display: flexbox;
+    margin:auto;
 }
