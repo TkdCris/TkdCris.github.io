@@ -2,10 +2,21 @@ body {
     background-color: rgb(109, 110, 112)
 }
 
-#cris-perfil img {
+#cris-perfil {
+   
+    
+}
+
+#cris-perfil{
+    display: flex;
+    margin:auto;
     border-radius: 50%;
+    padding: 0;
 }
 
 .titulo {
-
+    padding: 10;
+    background-color: grey;
+    width: 10.07em;
+    margin: 10px auto;
 }
