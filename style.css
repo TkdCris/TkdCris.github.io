@@ -23,7 +23,6 @@ body {
   background-color: rgb(190, 215, 236);
   margin: 0;
   padding-bottom: 0;
-
 }
 
 #formatura img {
@@ -37,10 +36,11 @@ body {
 }
 
 footer {
-  background-color: rgb(181, 206, 161);
+  background-color: rgb(181 , 206 , 161);
   width: 100%;
 }
 
 footer h3 {
     margin-bottom: 0;
+    font-size: .4em;
 }
