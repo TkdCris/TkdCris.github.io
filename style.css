@@ -4,28 +4,20 @@
 
 #img_github , li {
   width: 50px;
-  display: inline-block;
-  float: left;
   margin: 0 30px;
   float: right;
 }
 
 #img_linkedin , li {
   width: 50px;
-  display: inline-block;
-  float: left;
   margin: 0 10px;
   float: right;
-
 }
 
 #img_face , li {
   width: 30px;
-  display: inline-block;
-  float: left;
   margin: 0 10px;
   float: right;
-  
 }
 
 #img_fundo_header{
