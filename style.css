@@ -1,41 +1,30 @@
-body {
-    background-color: rgb(41, 90, 59);
-}
-
-h2 ,h3 {
-    padding: 0 25px;
-}
-
-#cris-perfil{
-    background-color: royalblue;
-    max-width: 300px;
-    display: flexbox;
-    margin:auto;
-    border-radius: 50%;
-    padding: 0;
-    border: 6px solid rgb(10, 31, 18);
-}
-
-.titulo {
-    width: 10.07em;
-    margin: 10px auto;
-}
-
-img {
-    background-color: royalblue;
-    min-width: 300px;
-    max-width: 90%;
-    padding: 0;
-    margin: 0;
-    border: 3px solid;
+#img_fundo_header{
+    width: 100%;
+    margin-top: 0;
     display: flex;
-    margin:auto;
 }
 
-.centralizar {
-   
-    min-width: 300px;
-    max-width: 600px;
-    display: flexbox;
-    margin:auto;
+#img_perfil {
+    display: flex;
+    border-radius: 50% 0;
+    border: 5px solid black;
+    width: 7%;
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 45%;
+    background-color: black;
+}
+
+body {
+    background-color: hsl(168, 37%, 82%);
+}
+
+#formatura img {
+    width: 100%;
+    clear: both;
+}
+
+#black_belt img {
+    width: 100%;
+    clear: both;
 }
